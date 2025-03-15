@@ -1,4 +1,4 @@
-# Babuah - Microservices App
+# Babuah - Fruit Distribution App
 
 ## Services
 
