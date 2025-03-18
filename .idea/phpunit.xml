@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/shipping-svc/tests/Unit" />
+        <option value="$PROJECT_DIR$/shipping-svc/tests/Feature" />
+        <option value="$PROJECT_DIR$/api-auth-gateway-svc/tests/Unit" />
+        <option value="$PROJECT_DIR$/api-auth-gateway-svc/tests/Feature" />
+        <option value="$PROJECT_DIR$/customer-svc/tests/Unit" />
+        <option value="$PROJECT_DIR$/customer-svc/tests/Feature" />
+        <option value="$PROJECT_DIR$/order-svc/tests/Unit" />
+        <option value="$PROJECT_DIR$/order-svc/tests/Feature" />
+        <option value="$PROJECT_DIR$/product-svc/tests/Unit" />
+        <option value="$PROJECT_DIR$/product-svc/tests/Feature" />
+        <option value="$PROJECT_DIR$/usermanagement-svc/tests/Unit" />
+        <option value="$PROJECT_DIR$/usermanagement-svc/tests/Feature" />
+        <option value="$PROJECT_DIR$/supplier-svc/tests/Unit" />
+        <option value="$PROJECT_DIR$/supplier-svc/tests/Feature" />
+      </list>
+    </option>
+  </component>
+</project>
